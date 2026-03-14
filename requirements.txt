@@ -1,1 +1,2 @@
-echo "streamlit\nfpdf"
+streamlit
+fpdf
